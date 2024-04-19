@@ -1,0 +1,1 @@
+import{f as t,a8 as a,h as n,i as o,M as s,G as c,K as r}from"./vue-Bs5yWiiQ.js";const _={class:"app-container"},m=t({name:"UserList",__name:"index",setup(l){return(p,d)=>{const e=a("el-card");return n(),o("div",_,[s(e,null,{default:c(()=>[r(" 用户列表 ")]),_:1})])}}});export{m as default};

@@ -1,0 +1,1 @@
+import{f as a,a8 as t,h as o,i as n,M as s,G as c,K as r}from"./vue-Bs5yWiiQ.js";const _={class:"app-container"},m=a({name:"Dashboard",__name:"index",setup(d){return(l,p)=>{const e=t("el-card");return o(),n("div",_,[s(e,null,{default:c(()=>[r(" 数据看板 ")]),_:1})])}}});export{m as default};
